@@ -4,9 +4,10 @@
 ## Team Information
 
 - **Team Members:**
-  - Member 1 – GitHub: [Rayna989](https://github.com/Rayna989)
-  - Member 2 – GitHub: [HamedBouSaleh](https://github.com/HamedBouSaleh)
-  - Member 3 – GitHub: [Joseph-CH7](https://github.com/Joseph-CH7)
+  - Member 1 – GitHub: [reina515](https://github.com/reina515)
+  - Member 2 – GitHub: [Rayna989](https://github.com/Rayna989)
+  - Member 3 – GitHub: [HamedBouSaleh](https://github.com/HamedBouSaleh)
+  - Member 4 – GitHub: [Joseph-CH7](https://github.com/Joseph-CH7)
 
 ## Project Overview
 
