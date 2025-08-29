@@ -12,9 +12,9 @@
 ## Project Overview
 
 This project aims to create a cross-platform app for managing public transport routes efficiently. Users can search routes, view schedules, and plan trips in real-time.
-1.	Build My Trip Feature
-•	Users enter details such as region, start and end dates, type of traveler (solo, couple, friends, family), and budget.
-•	The app generates a tailored trip plan with suggested destinations, activities, and cost estimates
+1.	Build My Trip Feature:
+   1. Users enter details such as region, start and end dates, type of traveler (solo, couple, friends, family), and budget.
+   2. The app generates a tailored trip plan with suggested destinations, activities, and cost estimates
 
 
 2.	Public Transportation Guide
